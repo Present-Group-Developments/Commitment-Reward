@@ -1,6 +1,6 @@
 Incentivising employees to commit fully, be rewarded accordingly, and control the process autonomously
 
-The Initiai Commit by Present Group Developments, indicated on the repository landing page, is the PDF version of the README following GitHub guidelines.
+The Initial Commit by Present Group Developments, indicated on the repository landing page, is the PDF version of the README following GitHub guidelines.
 
 **This Project is currently live, being undertaken manually with a client. It requires developers to turn it into a system and subsequently maintain that system.**
 
