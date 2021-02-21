@@ -4,8 +4,10 @@ Incentivising employees to commit fully, be rewarded accordingly, and control th
 The Initiai Commit by Present Group Developments, indicated on the repository landing page, is the PDF version of the README following GitHub guidelines. 
 This Project is currently live, being undertaken manually with a client. It requires developers to turn it into a system and subsequently maintain that system. 
 The proposal for the Project is being submitted to Polkadot for their consideration. 
-Only developers familiar with the Parity-Polkadot-Kusama (Polkadot) coding toolsets, Polkadot ecosystem and endorsed by Polkadot will be authorised on the project. 
-This constitutes a public announcement of the connection of the Project to Polkadot as stipulated in the Project Submission Requirements. 
+Only developers familiar with the Parity-Polkadot-Kusama (Polkadot) coding toolsets, Polkadot ecosystem and endorsed by Polkadot will be authorised on the project.
+
+**This constitutes a public announcement of the connection of the Project to Polkadot as stipulated in the Project Submission Requirements.**
+
 This is the sole reason for designating this repository as Public rather than Private. It may be redesignated as Private in accordance with directions from Polkadot. 
 Further to this, Present Group Developments can state that the Project is not under any legal, regulatory or community scrutiny. 
 A License Type of 'None' has currently been selected for this repository. Polkadot will advise of the correct License Type to select in due course. 
